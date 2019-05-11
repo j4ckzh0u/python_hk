@@ -387,3 +387,8 @@ By 九世 20119/4/29
  勒索xxx模仿某安全情报所写，请勿做任何违法事件！
  
  By 九世 2019/5/6
+
+写了个类似于Metasploit的框架，我想单独放在一个仓库
+地址：https://github.com/422926799/Vulnerability_framework
+
+By 九世 2019/5/11
