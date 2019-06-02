@@ -420,3 +420,7 @@ By 九世 2019/5/19
 Four-Faith四口网路由器存活收集,早上看见某文章爆破四信的，顺便搞一下。填上zoomeye_username和zoomeye_password，页数可自己改，默认为10页。自动收集指定范围IP检测存在弱口令的IP，保存到save.txt
 
 By 九世 2019/5/25
+
+github搜索工具，可用于快速搜索github上的仓库。内有高级语法搜索与帮助
+
+By 九世 2019/6/2
