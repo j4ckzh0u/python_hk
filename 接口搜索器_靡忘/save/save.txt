@@ -1,0 +1,16 @@
+存活url:https://www.baidu.com/
+白名单匹配:jquery-1.10.2.min_65682a2.js url:https://www.baidu.com/
+存活url:http://www.baidu.com/more/
+存活url:https://tieba.baidu.com/index.html
+白名单匹配:log.js url:https://tieba.baidu.com/index.html
+存活url:https://zhidao.baidu.com/
+白名单匹配:login.js url:https://zhidao.baidu.com/
+白名单匹配:log.js url:https://zhidao.baidu.com/
+存活url:http://image.baidu.com
+存活url:http://v.baidu.com
+存活url:https://map.baidu.com/
+存活url:https://www.baidu.com/
+白名单匹配:jquery-1.10.2.min_65682a2.js url:https://www.baidu.com/
+存活url:http://www.baidu.com/more/
+存活url:https://tieba.baidu.com/index.html
+白名单匹配:log.js url:https://tieba.baidu.com/index.html
