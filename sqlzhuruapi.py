@@ -3,7 +3,7 @@ import json
 import platform
 import os
 logo="#sqlmap api制作" \
-     "#九世制作"
+     "#azure制作"
 print(logo)
 print('[1]Manually open sqlmapapi')
 print('[2]Automatically open sqlmapapi')

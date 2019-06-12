@@ -1,11 +1,11 @@
-#author:九世
+#author:azure
 #time:2019/3/11
 
 import requests
 import re
 from urllib import parse
 
-print('星盟安全-天眼查资产收集-九世 签名：此生此世，为情所困')
+print('星盟安全-天眼查资产收集-azure 签名：此生此世，为情所困')
 uk=input('天眼查的cookie：')
 user=input('要查询的公司：')
 urlbm = parse.quote('{}'.format(user))

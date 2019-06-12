@@ -1,4 +1,4 @@
-#author:九世
+#author:azure
 #time:2019/3/3
 
 import requests
@@ -27,7 +27,7 @@ def banner():
    \__\/       \__\/      \  \:\        \  \::/   
                            \__\/         \__\/  
 
-   author：九世
+   author：azure
    version：1.0
        '''
     print('\033[1;33m {} \033[0m'.format(banners))

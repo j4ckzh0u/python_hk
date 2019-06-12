@@ -1,4 +1,4 @@
-#author:九世
+#author:azure
 #time:2019/2/10
 
 import requests
@@ -85,7 +85,7 @@ class Reqt:
         try:
             print('[+] 网络连接正常')
             if title==1 and text==1:
-                biaoti="九世发送今日早报"
+                biaoti="azure发送今日早报"
                 neiron=open('save.txt','r',encoding='utf-8').read()
             elif title==2 and text==2:
                 biaoti="早报更新"

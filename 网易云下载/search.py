@@ -1,4 +1,4 @@
-#author:九世
+#author:azure
 #time:2019/2/11
 
 import requests
@@ -8,7 +8,7 @@ import os
 
 musica={}
 
-print('作者：By 九世')
+print('作者：By azure')
 print('网易云音乐搜索')
 print('')
 user = input('输入你要搜索的歌手或歌曲名称：')

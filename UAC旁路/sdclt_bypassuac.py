@@ -1,6 +1,6 @@
 #source:http://www.ggsec.cn/sdclt-bypassuac.html
 #time:2019/1/24
-#author:九世
+#author:azure
 
 import os
 

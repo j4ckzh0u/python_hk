@@ -1,4 +1,4 @@
-#author:九世
+#author:azure
 #time:2019/2/1
 
 import requests
@@ -199,7 +199,7 @@ class Rkst:
 if __name__ == '__main__':
     headers={'user-agent':'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36'}
     jkl='http://sbd.ximcx.cn/DomainServlet'
-    print('九世版子域名查询_何安圻')
+    print('azure版子域名查询_何安圻')
     user=input('查询的域名：')
     print('[@] 接下来设置爆破模式，输入1为爆破一级域名，输入2为爆破二级域名，输入3位爆破三级域名，输入4为爆破四级域名，输入5位爆破5级域名，输入all为全开 注意：此模式很慢')
     xw=input('设置爆破模式：')

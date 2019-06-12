@@ -2,7 +2,7 @@
 你的apache目录，Linux的话他会自动帮你移动，windows下的话不会。
 chm钓鱼：https://422926799.github.io/2019/01/27/Chm-fishing/
 
-By 九世 2019/1/27
+By azure 2019/1/27
 
 
 This is what I wrote about chm fishing, in order to facilitate the rapid generation. Put the start.html generated in the file file into Easy CHM to generate the corresponding chm, put fanvicon.ico,

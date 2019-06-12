@@ -1,4 +1,4 @@
-#author:九世
+#author:azure
 #time:2019/2/6
 
 class Weblogic:
@@ -85,7 +85,7 @@ class Weblogic:
 
 if __name__ == '__main__':
     obj=Weblogic()
-    print('weblogic 反序列化检测 by 九世')
+    print('weblogic 反序列化检测 by azure')
     jg=['1.通过网页关键字来判断是否为weblogic','2.检测是否存在weblogic反序列化','3.从zoomeye采集目标','4.7001端口扫描判断是否开放']
     jgs={'1':obj.jiance,'2':obj.exp,'3':obj.zoomeye,'4':obj.portscan}
     while True:

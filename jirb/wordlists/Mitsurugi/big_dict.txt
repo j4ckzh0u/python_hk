@@ -217352,8 +217352,4 @@ zztop
 /zzznh
 /zzztttzzz
 /zzzxxx
-/特殊帖插件附件\ts-13.php
-/特殊帖插件附件\ts-delts.php
-/特殊帖插件附件\ts-tool.php
-/特殊帖插件附件\ts-upmdb.php
-/特殊帖插件附件\附件说明.txt
+

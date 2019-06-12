@@ -1,4 +1,4 @@
-# @author:九世
+# @author:azure
 # @time:2019/6/1
 
 from gevent import  monkey;monkey.patch_all()
@@ -30,7 +30,7 @@ class Search:
       \_/__/          \/______/                    
         '''
         ver['version']='0.1'
-        ver['author']='九世'
+        ver['author']='azure'
         ver['github']='https://github.com/422926799'
         ver['waring']='[!] 由于个别人不喜欢写README.md或者github上显示不出来导致README为空，抓取的时候抓不到。只能添加空白凑和着了，所以会有README混乱例子搜索:Metasploit即可体会到'
         v_l=list(ver.keys())

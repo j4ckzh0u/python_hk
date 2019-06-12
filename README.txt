@@ -142,7 +142,7 @@ LEFI
 这段时间比较忙没有及时更新写的脚本，在此说声抱歉。很多写过的脚本，具体作用我也忘的差不多了
 请各位自行使用和了解,Thanks
 
-By 九世 time 2018.11.16 0:11
+By azure time 2018.11.16 0:11
 
 base64 _injection.py 是用于进行base64注入的脚本，他要求你先填写你的url，在填写里面的id
 例如：http://xxx.com/ss.php?id=MTM
@@ -162,7 +162,7 @@ This script is for defenseless sites
 Test site: http://yyyhhg.com
 Search for more similar sites: Google grammar: inurl:. php? Id = MTM
 
-By 九世 time:2018/12/2
+By azure time:2018/12/2
 
 c2项目是我第一个接触c2通信所写出来的脚本
 具体使用方法：

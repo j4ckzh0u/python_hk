@@ -95891,6 +95891,3 @@
 /zdwh/modipwd.aspx
 /zdwh/userinfo.aspx
 /zhubianleft.ascx
-/第八天/do/练习/o/web控件/d/webusercontrol.ascx
-/练习/o/web控件/d/webusercontrol.ascx
-/友情连接.ascx
