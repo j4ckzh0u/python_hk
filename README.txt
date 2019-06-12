@@ -238,23 +238,11 @@ chm钓鱼：https://422926799.github.io/2019/01/27/Chm-fishing/
 By  2019/1/27
 
 
-This is what I wrote about chm fishing, in order to facilitate the rapid generation. Put the start.html generated in the file file into Easy CHM to generate the corresponding chm, put fanvicon.ico,
-Your apache directory, Linux, he will automatically help you move, windows will not.
-Chm fishing: https://422926799.github.io/2019/01/27/Chm-fishing/
-
-By IX 2019/1/27
-
 CVE-2018-18852是cerio路由器的CVE，github上有py2的，我这里写了个py3的
 
 CVE-2018-18852 is the CVE of the cerio router, py2 on the github, I wrote a py3 here.
 
-By  2019/1/30
 
-新增了一个子域名爆破，具体请看：https://422926799.github.io/2019/02/03/Subdomain-blasting/
-
-Added a sub-domain blast, see: https://422926799.github.io/2019/02/03/Subdomain-blasting/
-
-By  2019/2/2
 
 子域名爆破改进版，子域名爆破.rar那个
 
@@ -299,7 +287,7 @@ By  2019/3/11
 
 改进了RID劫持脚本，完全不靠命令进行修改
 
-https://github.com/422926799/python/tree/master/RID%E5%8A%AB%E6%8C%81
+https://github.com/azure-sea/python_hk/tree/master/RID%E5%8A%AB%E6%8C%81
 
 By  2019/3/26
 
@@ -326,9 +314,6 @@ CVE定时更新，今天在看RSS的时候看到一篇文章说到了定时监�
 
 By  2019/4/14
 
-简单的RAT的写的思路：https://422926799.github.io/posts/10e14164.html
-
-By  2019/4/20
 
 CNVD-2019-48814利用工具是最近爆出来的weblogic反序列化RCE
 
@@ -387,10 +372,6 @@ By  20119/4/29
  
  By  2019/5/6
 
-写了个类似于Metasploit的框架，我想单独放在一个仓库
-地址：https://github.com/422926799/Vulnerability_framework
-
-By  2019/5/11
 
 写了个权限维持的脚本，叫做碧鳞蛇吧，详细用法请看
 https://422926799.github.io/posts/91b15c6.html
